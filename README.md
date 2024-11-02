@@ -3,7 +3,7 @@
 A simple clone of the Facebook login page built with HTML and CSS to practice frontend development skills.
 
 ## Screenshots
-![Screenshot of the project](/images/screenshot)
+![Screenshot of the project](/images/screenshot.png)
 
 ## Features
 - Responsive design
